@@ -35,7 +35,7 @@ GROUP BY unique_titles.title
 ORDER BY COUNT(title) DESC;
 
 
---Deliverable 2
+-- Deliverable 2
 
 -- Mentorship Eligibility
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
@@ -54,3 +54,6 @@ ON e.emp_no = titles.emp_no
 WHERE de.to_date = '9999-01-01'
 AND e.birth_date BETWEEN '1965-01-01' AND '1965-12-31'
 ORDER BY e.emp_no;
+
+
+-- Deliverable 3
