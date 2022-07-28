@@ -8,9 +8,9 @@
 #
 ## Results:
 
-### 1) The highest number of employees retiring based on title are 'Senior' level employees. There are 25,916 Senior Engineers, and 24,926 Senior Staff who are eligible for retirement.
+### 1) The highest number of employees retiring based on title are senior level employees. There are 25,916 Senior Engineers, and 24,926 Senior Staff who are eligible for retirement.
 
-### 2) There are fewer lower-level employees who are retiring compared to the 'Senior' level employees, so there may be potential to promote within the company. There are 9,285 Engineers, 7,636 Staff, and 1,090 Assistant Engineers who are eligible for retirement.
+### 2) There are fewer lower-level employees who are retiring compared to the senior level employees (Engineer, Staff, Assistant Engineer). This means that there may be potential to promote within the company in order to fill the senior level roles that will soon be vacant.
 
 ![](https://github.com/eoweed/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
@@ -23,8 +23,8 @@
 
 ### In total there are 72,458 roles that will need to be filled from employees retiring soon. 
 
-### There are 1,549 eligible mentors, however with 72,458 roles that will be vacant, that results in a ratio of 1 mentor to around 46 mentees. Unless more employees become qualified to be mentors as other employees retire, there may not be enough mentors to guide new employees. 
+### There are 1,549 eligible mentors, however with 72,458 roles that will be vacant, that results in a ratio of 1 mentor to around 46 mentees. Unless more employees become qualified to be mentors as other employees retire, there may not be enough mentors to guide new employees over time. 
 
 ### A new query could be performed to calculate the number of mentors that will be eligible each year into the future. The current analysis only calculated eligible mentors born in 1965, however we could predict the number of eligible mentors into the future years as well. 
 
-### In addition, it may be helpful to determine the number of eligible mentors per each title that will need to be filled. The current analysis shows which current employees are eligible to be mentors based on the year they were born, but it may be helpful to determine how many mentors there can be for each role.
+### In addition, it may be helpful to determine the number of eligible mentors per each title that will need to be filled. The current analysis shows which current employees are eligible to be mentors based on the year they were born, but it may be helpful to determine how many mentors there will be for each title.
