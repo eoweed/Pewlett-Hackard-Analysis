@@ -12,7 +12,7 @@
 
 ### 2) There are fewer lower-level employees who are retiring compared to the 'Senior' level employees, so there may be potential to promote within the company. There are 9,285 Engineers, 7,636 Staff, and 1,090 Assistant Engineers who are eligible for retirement.
 
-### ![](https://github.com/eoweed/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+![](https://github.com/eoweed/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 ### 3) There are 1,549 current employees who are eligible to be mentors, and they hold a wide range of titles.
 
