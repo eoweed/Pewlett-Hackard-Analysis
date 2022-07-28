@@ -57,3 +57,14 @@ ORDER BY e.emp_no;
 
 
 -- Deliverable 3
+
+SELECT * FROM retiring_titles;
+
+SELECT COUNT(emp_no) FROM mentorship_eligibilty;
+
+SELECT * FROM retirement_titles;
+
+SELECT COUNT(title), emp_no 
+FROM retirement_titles
+GROUP BY emp_no;
+
